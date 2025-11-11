@@ -1,0 +1,11 @@
+﻿Name,Number of Carbon Atoms,Molecular Formula,Condensed Structural Formula,Boiling_Point_C,Boiling_Point_K,SMILES
+Methane,1,CH₄,CH₄,-162,111.15,C
+Ethane,2,C₂H₆,CH₃CH₃,-89,184.15,CC
+Propane,3,C₃H₈,CH₃CH₂CH₃,-42,231.15,CCC
+Butane,4,C₄H₁₀,CH₃(CH₂)₂CH₃,0,273.15,CCCC
+Pentane,5,C₅H₁₂,CH₃(CH₂)₃CH₃,36,309.15,CCCCC
+Hexane,6,C₆H₁₄,CH₃(CH₂)₄CH₃,69,342.15,CCCCCC
+Heptane,7,C₇H₁₆,CH₃(CH₂)₅CH₃,98,371.15,CCCCCCC
+Octane,8,C₈H₁₈,CH₃(CH₂)₆CH₃,126,399.15,CCCCCCCC
+Nonane,9,C₉H₂₀,CH₃(CH₂)₇CH₃,151,424.15,CCCCCCCCC
+Decane,10,C₁₀H₂₂,CH₃(CH₂)₈CH₃,174,447.15,CCCCCCCCCC
